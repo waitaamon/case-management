@@ -9,7 +9,7 @@
             New Case
         </button>
 
-        <Modal v-model="showModal" modalClass="max-width: 700px" title="New Rent Payment">
+        <Modal v-model="showModal" modalClass="max-width: 700px" title="New Legal Case">
             <div class="py-3">
                 <form class="space-y-6">
                     <div>

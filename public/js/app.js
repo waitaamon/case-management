@@ -22448,7 +22448,7 @@ var render = function() {
       _c(
         "Modal",
         {
-          attrs: { modalClass: "max-width: 700px", title: "New Rent Payment" },
+          attrs: { modalClass: "max-width: 700px", title: "New Legal Case" },
           model: {
             value: _vm.showModal,
             callback: function($$v) {
